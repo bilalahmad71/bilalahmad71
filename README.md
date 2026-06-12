@@ -9,7 +9,7 @@ I design and build scalable backend systems with a strong focus on performance, 
 ## 🚀 About Me
 
 - 🏢 Backend Developer at **Partsklik LLP**
-- 🧠 3+ years of professional experience (since 2022)
+- 🧠 3+ years of professional experience (since 2023)
 - 💼 Worked on **E-commerce, CRM, Logistics, ERP & Banking Integrations**
 - ⚙️ Strong interest in **system design & distributed systems**
 - 🌱 Currently learning **Machine Learning & Data Engineering**
